@@ -2,7 +2,8 @@
 This repo is created for answering few technical questionnaire for an internship application.
 
 To categorize the files;
-Q3.
+
+Q3
 - Time Spent On Daily Activities
 
 Q4~6
